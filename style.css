@@ -67,7 +67,7 @@ button:hover{
   margin-left: auto;
   margin-top: none;
   margin-bottom: 10px;
-  padding: 6px 0px;
+  padding: 6px 0px; 
   box-sizing: border-box;
 }
 .main{
@@ -75,7 +75,31 @@ button:hover{
   border: 2px dashed lightslategrey;
   border-radius: 6px;
   border-top: none;
+  border-bottom: none;
 }
 .title-main{
   color: slateblue;
+}
+footer{
+  color: black;
+  padding: 5px;
+}
+#link{
+  color: rgb(71, 163, 243); 
+  text-decoration-line: none;
+}
+#link:hover{
+  color: palevioletred;
+}
+#link:active{
+  color:green;
+}
+#link:visited{
+  color: darkred;
+}
+span{
+  color:#5A4255;
+  font-weight: bolder;
+  font-style: italic;
+  font-size: 20px;
 }
