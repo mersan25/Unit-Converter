@@ -4,6 +4,7 @@ body{
   border: 3px solid white;
   border-radius: 10px;
   width: 100%;
+  margin: 0 ;
 }
 h5{
   font-weight: bolder;
